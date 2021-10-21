@@ -2,4 +2,7 @@
 
 최소자승법, 최소제곱법(Least Square Method)을 활용하여 밝기 보정을 하기 위한 Python 코드
 
-C++코드 밖에 없어서 Python으로 이식함
+- https://darkpgmr.tistory.com/56 의 이론 참고하여 작성
+
+- https://m.blog.naver.com/chrhdhkd/220801293675 의 OpenCV C++ 코드를 기반으로 Python에서 동작하는 코드로 변환
+
